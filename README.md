@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Mansour**, a Software Engineer based in **Dammam, Saudi Arabia**.
+I'm **Mansour**, a Software Engineer based in ** Saudi Arabia**.
 
 I'm passionate about improving my development skills and continuously learning new technologies. I enjoy building systems that are both functional and user-friendly.
 
